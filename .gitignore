@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Local git wrapper (contains a personal SSH key path)
+git.sh
