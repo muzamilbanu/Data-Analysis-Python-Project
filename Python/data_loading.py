@@ -14,7 +14,7 @@ Bank Transaction Dataset for Fraud Detection
 Source : https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
 File   : bank_transactions_data_2.csv  (2,512 rows x 16 columns)
 
-Author : [Your Name]
+Author : Muzamil banu
 Course : AIML - Anudip Foundation
 """
 

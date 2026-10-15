@@ -19,7 +19,7 @@ Analyses
   7. Correlation analysis       - correlation matrix of numeric features
   8. Anomaly analysis           - statistical outlier flags (IQR, z-score, login behaviour)
 
-Author : [Your Name]
+Author : Muzamil banu
 Course : AIML - Anudip Foundation
 """
 

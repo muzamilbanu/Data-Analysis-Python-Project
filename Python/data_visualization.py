@@ -14,7 +14,7 @@ the ``Visualizations/`` folder:
   * correlation_analysis.png   - correlation heatmap + balance-usage scatter
   * anomaly_analysis.png       - statistical anomaly flags
 
-Author : [Your Name]
+Author : Muzamil banu
 Course : AIML - Anudip Foundation
 """
 

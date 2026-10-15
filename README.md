@@ -309,7 +309,7 @@ present, so no Kaggle account is required.
 
 ## Author
 
-- **Name:** [Your Name]
+- **Name:** Muzamil banu
 - **Student ID:** [Your Student ID]
 - **Organization:** Anudip Foundation
 - **Course:** AIML

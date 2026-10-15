@@ -6,7 +6,7 @@
 | **Industry** | IDFC FIRST Bank — Banking & Financial Services (BFSI) |
 | **Organization** | Anudip Foundation |
 | **Course** | AIML |
-| **Author** | [Your Name] |
+| **Author** | Muzamil banu |
 | **Student ID** | [Your Student ID] |
 | **Batch Code** | [Your Batch Code] |
 | **Tools** | Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, uv |
